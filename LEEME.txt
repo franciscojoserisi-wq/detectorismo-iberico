@@ -1,0 +1,8 @@
+CORRECCIÓN DE LA PORTADA — DETECTORISMO IBÉRICO
+
+Sube estos dos elementos al repositorio, conservando exactamente las carpetas:
+
+css/estilos.css
+imagenes/cabecera.png
+
+La portada index.html ya está preparada para buscarlos en esas rutas.
