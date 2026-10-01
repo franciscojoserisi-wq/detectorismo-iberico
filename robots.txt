@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /admin.html
+Sitemap: https://franciscojoserisi-wq.github.io/detectorismo-iberico/sitemap.xml
